@@ -37,7 +37,6 @@ A professional, production-ready web application for a photography studio sellin
    ```bash
    npm run dev
    ```
-   *(Note: You might need to add "dev": "nodemon server.js" to scripts if not present)*
 
 ### 2. Frontend Setup
 1. Navigate to the `frontend` folder.
